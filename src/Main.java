@@ -56,7 +56,6 @@ public class Main {
             System.out.println();
         }
 
-
         System.out.println("Задание 3");
         Park park = new Park();
         Park.Attraction attraction = park.new Attraction(
