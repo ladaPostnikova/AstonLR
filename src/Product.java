@@ -16,6 +16,7 @@ public class Product {
 
     }
 
+
     public void infoProduct (){
         System.out.println("Название: " + name);
         System.out.println("Дата производства: " + prodDate);

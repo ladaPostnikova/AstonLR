@@ -1,4 +1,5 @@
 public class Park {
+
     public class Attraction {
         private String name;
         String openingHours;
