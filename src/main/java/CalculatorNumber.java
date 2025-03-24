@@ -13,6 +13,7 @@ public class CalculatorNumber {
 
     public static double division(int number1, int number2) {
         if (number2 == 0) {
+            System.out.println("Деление на ноль");
             throw new ArithmeticException("Деление на ноль");
         }
         double result = number1 / number2;
